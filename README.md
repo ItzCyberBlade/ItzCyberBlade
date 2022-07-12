@@ -2,6 +2,6 @@
 
 - ⌚️ Working on Discord Bots / Websites
 
-- 📞 You can contact me with [Discord](https://discord.gg/zTmqnzbXuX)
+- 📞 You can contact me with [Discord](https://discord.gg/3vvyxsZc)
 
 - 📖 Learning/Coding  **C#, Javascript, HTML, SQL**
